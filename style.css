@@ -1,0 +1,78 @@
+/* Edit your Navbar here */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+body{
+  background-color: #1a9af1;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+/* Edit your Footer here */
+.footer {
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  color: white;
+  background-color: grey;
+  bottom: 0;
+  left: 0;
+}
+.logo {
+  float: left;
+  max-width: 100px;
+}
+
+ 
+.home-cta-hover {
+  background-color: #1a9af1;
+  color: #fff;  
+}
+
+.button{
+  background-color: #15c5f4;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+}
+.picture{
+  max-width: 330px;
+  float: right;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+.DD{
+  max-width: 330px;
+  float: right;
+  margin-left: 100px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  
+  
+
+}
+.header{
+   text-size: 40px;
+  text-align:center;
+  color: white;
+  padding-left: 500px;
+  Padding-right: 500px;
+}

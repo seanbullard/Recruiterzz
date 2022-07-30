@@ -1,0 +1,144 @@
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+.header img {
+  width: 75px;
+  padding: 10px 10px;
+  float: left;
+}
+li {
+  float: left;
+}
+.logo {
+  float: left;
+  max-width: 200px;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+/* Edit your Footer here */
+.footer {
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  color: white;
+  background-color: grey ;
+  bottom: 0;
+  left: 0;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+body {
+  background-color: #4286F4;
+}
+.header-section {
+  display: inline-block;
+}
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+.nav-link{
+  color: black;
+  text-decoration: none;
+}
+.banner-button{
+  text-align: center;
+  border-radius: 100px;
+}
+}
+.logo{
+  padding: 20px;
+  text-align: center;
+}
+.header-section {
+  display: inline-block;
+}
+ul{
+  padding: 0;
+  margin: 0;
+}
+.nav-btn {
+  list-style-type: none;
+  display: inline-block;
+  padding: 20px;
+}
+.nav-link{
+  color: black;
+  text-decoration: none;
+}
+.login {
+  text-align: center;
+}
+password{
+  border-radius: 200px;
+}
+input{
+  /* border-radius: 200px; */
+  padding: 10px;
+  text-align: center;
+}
+      form {
+      border: none;
+      }
+      input[type=text], input[type=password] {
+       width: 100%;
+      padding: 16px 8px;
+      margin: 8px 0;
+/*       display: inline-block; */
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+      }
+      button {
+      background-color: #4286F4;
+      color: white;
+      padding: 14px 0;
+      margin: 10px 0;
+      border: none;
+      cursor: grab;
+      width: 48%;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+      }
+      h1 {
+      text-align:center;
+      fone-size:18;
+      color: white;
+      }
+      button:hover {
+      opacity: 0.8;
+      }
+      .formcontainer {
+      text-align: center;
+      margin: 24px 50px 12px;
+      }
+      .container {
+      padding: 16px 0;
+      text-align: left;
+/*       width: 1000px; */
+      }
+      span.psw {
+      float: right;
+      padding-top: 0;
+      padding-right: 15px;
+      }
+      /* Change styles for span on extra small screens */
+      @media screen and (max-width: 300px) {
+      span.psw {
+      display: block;
+      float: none;
+      }
+    }
+.lable-text {
+  color: white;
+/*   width: 200px; */
+}
